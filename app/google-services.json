@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "975175566515",
+    "firebase_url": "https://airpnp-19aa2.firebaseio.com",
+    "project_id": "airpnp-19aa2",
+    "storage_bucket": "airpnp-19aa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975175566515:android:417bc1ca89cade8a",
+        "android_client_info": {
+          "package_name": "airpnp.pennapps.com.airpnp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975175566515-lmscru25v0o1c7lgi9fd50opa6bus34c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "airpnp.pennapps.com.airpnp",
+            "certificate_hash": "1BD55019259D01482BFAAEA13D82CD71938400F6"
+          }
+        },
+        {
+          "client_id": "975175566515-obpg2soutgtqtvjmukndhgfdm2l7ces1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{ "current_key": "AIzaSyBESOSLZ2sjEsscWbeiOeCqlBdmoacW1ds" }],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975175566515-obpg2soutgtqtvjmukndhgfdm2l7ces1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
